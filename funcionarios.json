@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Renato de Oliveira",
+        "dataNascimento": "1992-11-24",
+        "sexo": "Masculino", 
+        "cpf": "41616034874",
+        "naturalidade": "Brasileiro",
+        "valorHora": 94.54,
+        "salario": 1500.01,
+        "codRecebimento": "P",
+        "tipoProfessor": "Mestre",
+        "cargaHoraria": 80
+    },
+    {
+        "name": "Rafael Santos dos Reis",
+        "dataNascimento": "1991-10-28",
+        "sexo": "Masculino", 
+        "cpf": "41616034874",
+        "naturalidade": "Brasileiro",
+        "valorHora": 100.00,
+        "salario": 1500.01,
+        "codRecebimento": "P",
+        "tipoProfessor": "Doutor",
+        "cargaHoraria": 77
+    },
+    {
+        "name": "Renan Maia de Carvalho",
+        "dataNascimento": "1994-06-04",
+        "sexo": "Masculino", 
+        "cpf": "41616034874",
+        "naturalidade": "Brasileiro",
+        "valorHora": null,
+        "salario": 5000.01,
+        "codRecebimento": "M",
+        "tipoProfessor": null,
+        "cargaHoraria": 220
+    },
+    {
+        "name": "Tiago Maia de Carvalho",
+        "dataNascimento": "1992-06-24",
+        "sexo": "Masculino", 
+        "cpf": "41616034874",
+        "naturalidade": "Brasileiro",
+        "valorHora": null,
+        "salario": 1323.00,
+        "codRecebimento": "M",
+        "tipoProfessor": null,
+        "cargaHoraria": 220
+    },
+    {
+        "name": "Samuel Neres dos Santos",
+        "dataNascimento": "1993-07-10",
+        "sexo": "Masculino", 
+        "cpf": "41616034874",
+        "naturalidade": "Brasileiro",
+        "valorHora": 62.42,
+        "salario": 1500.01,
+        "codRecebimento": "P",
+        "tipoProfessor": null,
+        "cargaHoraria": 200
+    },
+    {
+        "name": "Marcos dos Reis",
+        "dataNascimento": "1972-10-10",
+        "sexo": "Masculino", 
+        "cpf": "41616034874",
+        "naturalidade": "Brasileiro",
+        "valorHora": 250.00,
+        "salario": null,
+        "codRecebimento": "P",
+        "tipoProfessor": "Doutor",
+        "cargaHoraria": 150
+    }
+]
